@@ -1,7 +1,7 @@
 # nonfullscreenraycaster
 
 
-"HUsing Raycaster In A Non FullScreen Scene In Three.js" YouTube tutorial project files https://youtu.be/OvC0jTrx0FU
+"Using Raycaster In A Non FullScreen Scene In Three.js" YouTube tutorial project files https://youtu.be/OvC0jTrx0FU
 
 1. Clone the repository;
 2. Open the folder in Visual Studio Code;
