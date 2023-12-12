@@ -1,0 +1,23 @@
+{
+  "name": "nonfullscreenraycaster",
+  "version": "1.0.0",
+  "description": "Using Raycaster In A Non FullScreen Scene In Three.js https://youtu.be/OvC0jTrx0FU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.158.0"
+  },
+  "devDependencies": {
+    "@parcel/config-default": "^2.4.0",
+    "parcel": "^2.7.0",
+    "parcel-reporter-static-files-copy": "^1.3.4"
+  },
+  "staticFiles": {
+    "staticOutPath": "assets"
+  }
+}
